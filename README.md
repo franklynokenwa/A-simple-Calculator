@@ -14,7 +14,7 @@ This is a simple calculator built with HTML, CSS and Pure Javascript.The calcula
 
 ### Screenshot
 
-![https://github.com/franklynwisdom/A-simple-Calculator/blob/master/Simple%20calculator%20screenshot.png](Simple calculator screenshot.png)
+![](Simple%20calculator%20screenshot.png)
 
 ### Link
 - Live Site URL: (https://franklynwisdom.github.io/A-simple-Calculator/)
