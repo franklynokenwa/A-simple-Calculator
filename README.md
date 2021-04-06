@@ -1,6 +1,6 @@
 # A-simple-Calculator
 
-This is a simple calculator built with HTML, CSS and Pure Javascript.The calculator calculates simple arithmetic calculations and displays the result in the display area. It also responds to both click and keyboard events.
+This is a simple calculator built with HTML, CSS and Pure Javascript.The calculator performs simple arithmetic operations and displays the result in the display area. It also responds to both click and keyboard events.
 
 ## Table of contents
 
